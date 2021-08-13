@@ -1,3 +1,3 @@
 # hello-world
 first repository_practice
-I am learning R at the kindergarten level 8/12/21
+I am at a kindergarten level of R proficiency 8/12/21
